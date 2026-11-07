@@ -12,10 +12,7 @@ loadstring(game:HttpGet("https://cdn.snc.dev/6aefa27db1930d69c3f41e6d/loader"))(
 -- GAME ID WHITELIST (Arcade Basketball)
 -- ============================================================
 local ARCADE_IDS = {
-    [134558434771720] = true,
-    [130736793665498] = true,
-    [92216849541624]  = true,
-    [95439417741900]  = true,
+    [6229116934] = true,
 }
 
 -- ============================================================
