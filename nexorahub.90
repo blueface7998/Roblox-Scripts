@@ -2974,4 +2974,3 @@ end)
         pcall(function() setShotIndicator(false) end)
         for _, c in Cleanup.conns do pcall(function() c:Disconnect() end) end
     end)
-end
