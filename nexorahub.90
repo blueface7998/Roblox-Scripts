@@ -5,7 +5,7 @@ local _print, _warn = print, warn
 print = function() end
 warn = function() end
 
-
+local Rayfield =loadstring(game:HttpGet("https://raw.githubusercontent.com/blueface7998/Roblox-Scripts/refs/heads/main/nexorahub.90"))() 
 
 -- ============================================================
 -- GAME ID WHITELIST (Arcade Basketball)
